@@ -7,5 +7,5 @@ This is a simple product show e-commerce website made with html, css and Bootstr
 * CSS
 * Bootstrap
 
-### [Website live link:](https://uttamsaha.github.io/panda-commerce-website/) 
+`[Website live link:]`
 https://uttamsaha.github.io/panda-commerce-website/
